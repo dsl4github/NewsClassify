@@ -2,7 +2,7 @@
 Saved Model (360MB) 은 너무 커서 (25MB 한도) e-mail 로 보내 드리겠습니다.
 Colab 에서 보기
 ## Github 사용
-    https://colab.research.google.com/github/dsl4github/NewsClassify/
+    https://colab.research.google.com/github/dsl4github/NewsClassify/blob/main/naver_review_classifications_pytorch_kobert_load_trainTest(1).ipynb
     
 ## 코드 소개
 ```html
